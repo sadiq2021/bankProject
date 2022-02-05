@@ -1,0 +1,32 @@
+body{
+    padding:100px;
+}
+
+.submit{
+    
+    padding: 40px;
+    margin-top:50px;
+    border-radius: 12px;
+    box-shadow: 4px 4px 16px greenyellow;
+}
+#transection{
+    display:none;
+
+}
+
+.status{
+    margin: 0 20px;
+    color: white;
+    padding: 15px;
+    border-radius: 8px;
+    box-shadow:4px 4px 16px goldenrod ;
+}
+.deposit{
+    background-color: lawngreen;
+}
+.withdraw{
+    background-color: tomato;
+}
+.balance{
+    background-color: orange;
+}
